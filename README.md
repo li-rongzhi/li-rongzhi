@@ -12,10 +12,10 @@
 
 ###
 
-
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Sometimes+you+gotta+run+before+you+canwalk)
 <p align="left">✨ I'm currently working on LLM-based app, and content extraction from PDF files.<br>📚 I'm currently learning Database Implementation.<br>🎯 Goals: ...<br></p>
+
+> "Sometimes you gotta run before you can walk." - Tony Stark
+
 ###
 
 <h2 align="left">I code with</h2>
