@@ -3,7 +3,7 @@
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+I'm+Rongzhi!)](https://git.io/typing-svg)
 
-<p align="left">My name is Li Rongzhi and I'm a Year 2 CS student in NUS</p>
+<p align="left">My name is Li Rongzhi and I'm a Year 3 CS student in NUS</p>
 
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ I'm currently working on LLM-based app, and content extraction from PDF files.<br>📚 I'm currently learning Database Implementation.<br>🎯 Goals: ...<br></p>
+<p align="left">✨ I'm currently working on cloud resource management - how to scaling and scheduling GPU clusters for LLM serving.
 
 > "Sometimes you gotta run before you can walk." - Tony Stark
 
